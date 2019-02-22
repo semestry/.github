@@ -2,7 +2,7 @@
 name: Bug report
 about: Report defective behaviour of the application.
 title: ''
-labels: ''
+labels: 'Type: Bug'
 assignees: ''
 
 ---
