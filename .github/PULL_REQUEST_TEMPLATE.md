@@ -10,9 +10,7 @@ Describe how you have tested the changes.
 
 ## Documentation
 
-- [ ] This change requires updating the product documentation or help page.
-  - [ ] This has been done.
-  - [ ] A separate work item has been created: #???
+Does this change require updating the product documentation or help page? If yes, are these taken care of? Or has a separate work item been created (reference here)?
 
 ## Upgrade notes for breaking changes
 
