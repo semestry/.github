@@ -10,7 +10,7 @@ Describe how you have tested the changes.
 
 ## Documentation
 
-Does this change require updating the product documentation or help page? If yes, are these taken care of? Or has a separate work item been created (reference here)?
+Does this change require updating the product documentation or help page? If yes, has this been taken care of? Or has a separate work item been created (reference here)?
 
 ## Upgrade notes for breaking changes
 
