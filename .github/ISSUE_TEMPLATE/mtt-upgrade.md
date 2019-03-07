@@ -22,7 +22,7 @@ The applications that need to be upgraded are:
 
 ## Current version
 
-Customer is currently at version: vXX
+Customer is currently at version: v??
 
 ## Additional context
 
