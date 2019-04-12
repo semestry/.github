@@ -13,8 +13,6 @@ Which customer needs to be set up?
 
 ## Tasks
 
-### MyTimetable
-
 - [ ] Set the ext.customer string in the main `build.gradle` file to the unique customer id.
 - [ ] Comment out all development config in `config/development/mytimetable-core.properties`.
 - [ ] Configure the customer specific user preferences database in `config/customer/mytimetable-core.properties`.
