@@ -1,8 +1,9 @@
 ---
 name: Technical user story
-about: Create a technical user story which describes a non-functional change to the application.
+about: Create a technical user story which describes a non-functional change to the
+  application.
 title: ''
-labels: 'Type: Maintenance'
+labels: ''
 assignees: ''
 
 ---

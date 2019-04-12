@@ -1,8 +1,9 @@
 ---
 name: Epic (functional)
-about: Create a functional epic which describes a larger feature, consisting of multiple stories.
+about: Create a functional epic which describes a larger feature, consisting of multiple
+  stories.
 title: ''
-labels: 'Epic'
+labels: ''
 assignees: ''
 
 ---

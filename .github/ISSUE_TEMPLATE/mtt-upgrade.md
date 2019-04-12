@@ -1,8 +1,8 @@
 ---
 name: MyTimetable upgrade
 about: Request an upgrade to the latest version of MyTimetable for a specific customer.
-title: 'CUSTOMER MTT upgrade'
-labels: 'Type: Customer Impl.'
+title: CUSTOMER MTT upgrade
+labels: ''
 assignees: ''
 
 ---

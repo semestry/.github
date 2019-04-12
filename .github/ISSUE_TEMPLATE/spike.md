@@ -1,8 +1,9 @@
 ---
 name: Spike
-about: Create a spike which describes a research assignment to provide an estimate for another story.
+about: Create a spike which describes a research assignment to provide an estimate
+  for another story.
 title: 'Spike: TITLE'
-labels: 'Type: Spike'
+labels: ''
 assignees: ''
 
 ---

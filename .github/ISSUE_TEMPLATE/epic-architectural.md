@@ -1,8 +1,9 @@
 ---
 name: Epic (architectural)
-about: Create an architectural epic which describes a larger architectural change, consisting of multiple stories.
+about: Create an architectural epic which describes a larger architectural change,
+  consisting of multiple stories.
 title: ''
-labels: 'Epic'
+labels: ''
 assignees: ''
 
 ---
