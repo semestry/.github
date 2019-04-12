@@ -1,5 +1,5 @@
 ---
-name: MyTimetable initial customer configuration
+name: MyTimetable customer set up
 about: Configure MyTimetable for a specific customer.
 title: CUSTOMER MyTimetable configuration
 labels: 'Type: Customer Impl.'
@@ -10,14 +10,6 @@ assignees: ''
 ## Customer
 
 Which customer needs to be set up?
-
-## Applications
-
-The applications that need to be set up are:
-
- - MyTimetable web
- - MyTimetable EC / producer/consumer
- - Echo
 
 ## Tasks
 
@@ -58,15 +50,6 @@ The applications that need to be set up are:
 - [ ] Adjust resource bundles whenever necessary.
 - [ ] Make sure to replace the customer name in `CustomerName`, `Feed_Name_Var`, `Feed_Name_Var_List` and `Feed_Description_Var_List`.
 - [ ] Adjust configuration in `config/customer/**` and `**/*.override.xml` whenever necessary.
-
-### External Calendaring
-
-TBD
-
-### Echo
-
-- [ ] Styling of email template
-- [ ] Styling of verification page
 
 ## Additional context
 
