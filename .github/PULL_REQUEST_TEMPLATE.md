@@ -14,4 +14,4 @@ Does this change require updating the product documentation or help page? If yes
 
 ## Upgrade notes for breaking changes
 
-Are there any breaking changes that require upgrades notes? Then specify them here. Otherwise, simply write 'None'.
+- [ ] `UPGRADE_NOTES.md` has been updated (when applicable).
