@@ -6,7 +6,7 @@ Describe the big picture of your changes here.
 
 ## Testing
 
-Describe how you have tested the changes.
+Describe how you have tested the changes. Did you test the functionality by hand? Have automated tests been created? If not, why not, what issues did you hit creating a unit or integration test?
 
 ## Documentation
 
