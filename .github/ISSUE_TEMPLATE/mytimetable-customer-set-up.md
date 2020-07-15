@@ -34,7 +34,6 @@ Which customer needs to be set up?
 - [ ] Replace the various favicons in `mytimetable-web-server\src\main\resources\assets\images`.
 - [ ] Style the GWT interface:
     - [ ] Adjust values in `mytimetable-web-gwt\src\main\resources\nl\eveoh\mytimetable\web\gwt\css\variables.css`.
-    - [ ] Adjust `Scheduleviewer_title` and `Locationviewer_title` in the resource bundles. Append ` | Customer Name` and replace the brand name if desired.
     - [ ] Add the logos as `logo-<customer_id>.png` and `logo-<customer_id>@2x.png` to `mytimetable-web-server\src\main\resources\assets\images` and configure `HeaderPanel_headerImage_src = /assets/images/logo-<customer_id>.png` and `HeaderPanel_headerImage_retinaSrc`.
     - [ ] Configure `HeaderPanel_headerImage_link` to point to the corporate website (mind scheme and `www.`, to avoid unnecessary redirects) in `config/customer/mytimetable-web-server.properties`.
     - [ ] If absolutely necessary, you can use `mytimetable-web-gwt\src\main\resources\nl\eveoh\mytimetable\web\gwt\css\scheduleviewer-client.css` to override CSS classes.
@@ -46,7 +45,6 @@ Which customer needs to be set up?
     - [ ] Add the emblems in `mytimetable-web-server-shared\src\main\resources\assets\images` and configure it by setting the properties `Branding.Emblem.Src` and `Branding.Emblem.RetinaSrc` in `config/customer/mytimetable-web-server.properties`.
 - [ ] Customize the login page, if required.
 - [ ] Adjust resource bundles whenever necessary.
-- [ ] Make sure to replace the customer name in `CustomerName`, `Feed_Name_Var`, `Feed_Name_Var_List` and `Feed_Description_Var_List`.
 - [ ] Adjust configuration in `config/customer/**` and `**/*.override.xml` whenever necessary.
 
 ## Additional context
