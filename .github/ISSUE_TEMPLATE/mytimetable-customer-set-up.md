@@ -39,7 +39,7 @@ Which customer needs to be set up?
     - [ ] If absolutely necessary, you can use `mytimetable-web-gwt\src\main\resources\nl\eveoh\mytimetable\web\gwt\css\scheduleviewer-client.css` to override CSS classes.
 - [ ] Style the mobile interface:
     - [ ] Override variables in `mytimetable-web-mobile\src\main\resources\static\assets\m\resources\sass\client\_overrides.scss`.
-    - [ ] Adjust `Mobile_ThemeColor` and `WindowsPhone_TileColor` in the default resource bundle.
+    - [ ] Adjust `Mobile_ThemeColor` in the default resource bundle.
 - [ ] Style the Bootstrap based pages:
     - [ ] Override variables in `mytimetable-web-server-shared\src\main\resources\static\assets\sass\bootstrap\client\_overrides.scss`.
     - [ ] Add the emblems in `mytimetable-web-server-shared\src\main\resources\static\assets\images` and configure it by setting the properties `Branding.Emblem.Src` and `Branding.Emblem.RetinaSrc` in `config/customer/mytimetable-web-server.properties`.
