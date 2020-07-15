@@ -31,18 +31,18 @@ Which customer needs to be set up?
 - [ ] Set `PrivacyPolicy.Url` in the properties
 - [ ] For managed hosting: modify `PrivacyPolicy.Categories` in the properties, including translations
 - [ ] If desired, customize the brand name by adjusting `MyTimetable_Brand` in the resource bundles.
-- [ ] Replace the various favicons in `mytimetable-web-server\src\main\resources\assets\images`.
+- [ ] Replace the various favicons in `mytimetable-web-server\src\main\resources\static\assets\images`.
 - [ ] Style the GWT interface:
     - [ ] Adjust values in `mytimetable-web-gwt\src\main\resources\nl\eveoh\mytimetable\web\gwt\css\variables.css`.
-    - [ ] Add the logos as `logo-<customer_id>.png` and `logo-<customer_id>@2x.png` to `mytimetable-web-server\src\main\resources\assets\images` and configure `HeaderPanel_headerImage_src = /assets/images/logo-<customer_id>.png` and `HeaderPanel_headerImage_retinaSrc`.
+    - [ ] Add the logos as `logo-<customer_id>.png` and `logo-<customer_id>@2x.png` to `mytimetable-web-server\src\main\resources\static\assets\images` and configure `HeaderPanel_headerImage_src = /assets/images/logo-<customer_id>.png` and `HeaderPanel_headerImage_retinaSrc`.
     - [ ] Configure `HeaderPanel_headerImage_link` to point to the corporate website (mind scheme and `www.`, to avoid unnecessary redirects) in `config/customer/mytimetable-web-server.properties`.
     - [ ] If absolutely necessary, you can use `mytimetable-web-gwt\src\main\resources\nl\eveoh\mytimetable\web\gwt\css\scheduleviewer-client.css` to override CSS classes.
 - [ ] Style the mobile interface:
-    - [ ] Override variables in `mytimetable-web-mobile\src\main\resources\assets\m\resources\sass\client\_overrides.scss`.
+    - [ ] Override variables in `mytimetable-web-mobile\src\main\resources\static\assets\m\resources\sass\client\_overrides.scss`.
     - [ ] Adjust `Mobile_ThemeColor` and `WindowsPhone_TileColor` in the default resource bundle.
 - [ ] Style the Bootstrap based pages:
-    - [ ] Override variables in `mytimetable-web-server-shared\src\main\resources\assets\sass\bootstrap\client\_overrides.scss`.
-    - [ ] Add the emblems in `mytimetable-web-server-shared\src\main\resources\assets\images` and configure it by setting the properties `Branding.Emblem.Src` and `Branding.Emblem.RetinaSrc` in `config/customer/mytimetable-web-server.properties`.
+    - [ ] Override variables in `mytimetable-web-server-shared\src\main\resources\static\assets\sass\bootstrap\client\_overrides.scss`.
+    - [ ] Add the emblems in `mytimetable-web-server-shared\src\main\resources\static\assets\images` and configure it by setting the properties `Branding.Emblem.Src` and `Branding.Emblem.RetinaSrc` in `config/customer/mytimetable-web-server.properties`.
 - [ ] Customize the login page, if required.
 - [ ] Adjust resource bundles whenever necessary.
 - [ ] Adjust configuration in `config/customer/**` and `**/*.override.xml` whenever necessary.
