@@ -1,19 +1,19 @@
 ---
-name: Spike
-about: Create a spike which describes a research assignment to provide an estimate for another story.
-title: 'Spike: TITLE'
-labels: 'Type: Spike'
+name: Research
+about: Create a research assignment in preparation for another, actual issue.
+title: 'Research: TITLE'
+labels: 'Type: Research'
 assignees: ''
 
 ---
 
 ## Description
 
-In order to estimate #??, A_SYSTEM_OR_PERSONA needs to ACTION.
+In order to be able to solve #??, A_SYSTEM_OR_PERSONA needs to research TOPIC.
 
 ## Origin and motivation
 
-Why is this required? Why can't we estimate the story at the moment? What should the research focus on?
+Why is this required? Why can't we solve the issue at the moment? What should the research focus on?
 
 ## Subtasks
 
@@ -21,4 +21,4 @@ Why is this required? Why can't we estimate the story at the moment? What should
 
 ## Acceptance criteria
 
-- [ ] An estimate for the related user story has been provided.
+- [ ] One or more solution direction for solving the actual issue is now available.
