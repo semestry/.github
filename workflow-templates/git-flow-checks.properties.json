@@ -1,0 +1,5 @@
+{
+    "name": "Check that pull requests obey Git Flow",
+    "description": "Workflow that performs Git Flow checks on pull requests.",
+    "iconName": "git"
+}
