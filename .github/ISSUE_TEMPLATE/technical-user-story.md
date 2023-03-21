@@ -15,6 +15,10 @@ In order to GOAL, A_SYSTEM_OR_PERSONA needs to ACTION.
 
 Why is this required? What is the benefit of this change?
 
+## Security concerns
+
+A clear and concise description of any security concerns related to this technical user story.
+
 ## Subtasks
 
 - [ ] …
