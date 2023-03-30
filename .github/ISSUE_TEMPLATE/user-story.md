@@ -15,6 +15,10 @@ As a USER_TYPE, I want GOAL so that BENEFIT.
 
 Did someone ask for this? Why do they want this?
 
+## Security concerns
+
+A clear and concise description of any security concerns related to this user story.
+
 ## Subtasks
 
 - [ ] …

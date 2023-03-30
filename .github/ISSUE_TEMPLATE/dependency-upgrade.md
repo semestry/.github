@@ -23,9 +23,11 @@ Mention the relevant bug, vulnerability or feature here, if there is one.
 
 Please provide a link to the relevant change log.
 
+## Security concerns
+
+A clear and concise description of any security concerns related to this dependency upgrade.
+If this upgrade is required to mitigate a security risk, please assign the label `Type: Security` as well.
+
 ## Acceptance criteria
 
 - [ ] The dependency has been upgraded.
-
-
-<!--If this upgrade is required to mitigate a security risk, please assign the label `Type: Security` as well.-->
