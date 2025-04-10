@@ -1,0 +1,17 @@
+name: Announce release on Slack
+
+on:
+  release:
+    types:
+      - created
+
+jobs:
+  notify_slack:
+    runs-on: ubuntu-latest
+    name: Announce release on Slack
+    
+    steps:
+      - name: Announce release on Slack
+        uses: semestry/slackbot-release@v2
+        with:
+          slack_webhook_url: ${{ secrets.RELEASE_SLACK_WEBHOOK_URL }}
